@@ -233,3 +233,11 @@ body {
 
     }
 }
+
+.text-md-right{
+    a{
+        &:hover{
+            text-decoration: none;
+        }
+    }
+}
